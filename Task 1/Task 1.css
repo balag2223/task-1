@@ -1,0 +1,31 @@
+p{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: x-large;
+    text-align: center;
+}
+h1{
+    color: rgb(10, 1, 1);
+    text-align: center;
+}
+body{
+     background-image: url(bg.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+h2{
+    color: black;
+}
+li{
+    color: white;
+    font-size: x-large;
+}
+i{
+    color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+    align-tracks: center;
+}
